@@ -3,5 +3,5 @@ function shout(string) {
 }
 
 whisper("Hello") {
-  
+
 }
